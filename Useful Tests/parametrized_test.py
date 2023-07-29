@@ -22,3 +22,4 @@ def test_is_true(value):
 def test_is_false(value):
     result = str_to_bool(value)
     assert result is False
+
